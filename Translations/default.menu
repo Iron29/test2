@@ -1702,11 +1702,6 @@
 	"Notify_Weapon": "Weapon",
 	"Notify_Error": "Error",
 	"Notify_Custom2": "Error",
-
-
-
-
-
 	"Notify_RidJoin": "Rid Join: ",
 	"Notify_RidJoinStart": "Start",
 	"Notify_RidJoinPlOflline": "Player offline",
@@ -1739,8 +1734,5 @@
 	"Wardrobe_Custom_Component2T": "Hair Texture",
 	"Wardrobe_Custom_Component0": "Component",
 	"Wardrobe_Custom_Component0T": "Component Texture",
-
-
-
 	"1": "1"
 }
