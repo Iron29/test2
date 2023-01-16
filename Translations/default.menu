@@ -2035,5 +2035,17 @@
 	"GiveWeapon_acidpackage": "Acid package",
 	"SlGiveWeapon_Custom": "Give weapon custom",
 	"SlGriefing_LagFps": "Lag 1 fps",
+	"GiveWeapon_GiveAmmo": "Give ammo",
+	"SlVehicle_FlipRotate180": "Rotate 180",
+	"SlVehicle_FlipRotate2": "Flip over",
+	"Notify_Crash": "Crash: ",
+	"Notify_Amount": "Amount",
+	"Notify_Element": "Element",
+	"PlCrash_5G": "5G crash",
+	"PlCrash_5GInfo": "Need a lot of cars nearby",
+	"PlCrash_Render": "Render crash",
+	"PlCrash_RenderInfo": "Overloading the render | -0XCheat",
+	"PlCrash_ScrapMetal": "Scrap Metal",
+	"PlCrash_ScrapMetalInfo": "Memory overload | -Stand",
 	"1": "1"
 }

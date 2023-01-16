@@ -2059,5 +2059,17 @@
 	"GiveWeapon_acidpackage": "Acid package",
 	"SlGiveWeapon_Custom": "Выдать выбранное оружие",
 	"SlGriefing_LagFps": "Лаги 1 фпс",
+	"GiveWeapon_GiveAmmo": "Выдать патроны",
+	"SlVehicle_FlipRotate180": "Повернуть на 180",
+	"SlVehicle_FlipRotate2": "Перевернуть на 180",
+	"Notify_Crash": "Краш: ",
+	"Notify_Amount": "Количество",
+	"Notify_Element": "Элементы",
+	"PlCrash_5G": "5G краш",
+	"PlCrash_5GInfo": "Нужно много машин поблизости",
+	"PlCrash_Render": "Рендер краш",
+	"PlCrash_RenderInfo": "Перегрузка рендера | -0XCheat",
+	"PlCrash_ScrapMetal": "Металло воз",
+	"PlCrash_ScrapMetalInfo": "Перегрузка памяти | -Stand",
 	"1": "1"
 }
