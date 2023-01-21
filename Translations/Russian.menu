@@ -2071,5 +2071,6 @@
 	"PlCrash_RenderInfo": "Перегрузка рендера | -0XCheat",
 	"PlCrash_ScrapMetal": "Металло воз",
 	"PlCrash_ScrapMetalInfo": "Перегрузка памяти | -Stand",
+	"Notify2_ProtectRemoteGlobalEvent": "Block: Remote Globals by ",
 	"1": "1"
 }

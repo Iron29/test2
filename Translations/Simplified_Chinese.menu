@@ -2047,5 +2047,6 @@
 	"PlCrash_RenderInfo": "Overloading the render | -0XCheat",
 	"PlCrash_ScrapMetal": "Scrap Metal",
 	"PlCrash_ScrapMetalInfo": "Memory overload | -Stand",
+	"Notify2_ProtectRemoteGlobalEvent": "Block: Remote Globals by ",
 	"1": "1"
 }
