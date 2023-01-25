@@ -2072,5 +2072,14 @@
 	"PlCrash_ScrapMetal": "Металло воз",
 	"PlCrash_ScrapMetalInfo": "Перегрузка памяти | -Stand",
 	"Notify2_ProtectRemoteGlobalEvent": "Block: Remote Globals by ",
+	"SlEvent_FakeBan": "Фейк бан",
+	"Weapon_TakeTheSnow": "Подбирать снег",
+	"Weapon_TakeTheSnowInfo": "G - взять снег",
+	"Weapon_TakeTheSnowIgnoreWeapon": "Игнорировать оружие",
+	"SpVehicle_3DModel": "3D модель (Бета)",
+	"SpVehicle_IconsModel": "Иконка модели",
+	"Vehicle_SnowWheels": "Снежные колеса",
+	"Vehicle_SnowWheelsInfo": "Физика и следы, как зимой",
+	"Recovery_Unlock33": "Drug Wars Awards",
 	"1": "1"
 }
