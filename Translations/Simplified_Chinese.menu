@@ -2057,5 +2057,12 @@
 	"Vehicle_SnowWheels": "雪天胎痕",
 	"Vehicle_SnowWheelsInfo": "雪天的轮胎痕迹",
 	"Recovery_Unlock33": "解锁毒品战奖章",
+	"Recovery_Money": "Money",
+	"Recovery_MoneyAmount": "Amount: ",
+	"Recovery_MoneySet": "Give",
+	"Recovery_MoneySetInfo": "See the instructions",
+	"Recovery_MoneyInstruction": "Instruction",
+	"Recovery_MoneyInstructionInfo": "Click to open youtube video",
+	"Notify_MoneySet": "Set money: ",
 	"1": "1"
 }

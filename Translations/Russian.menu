@@ -2081,5 +2081,12 @@
 	"Vehicle_SnowWheels": "Снежные колеса",
 	"Vehicle_SnowWheelsInfo": "Физика и следы, как зимой",
 	"Recovery_Unlock33": "Войны с наркотиками Награды",
+	"Recovery_Money": "Деньги",
+	"Recovery_MoneyAmount": "Количество: ",
+	"Recovery_MoneySet": "Выдать",
+	"Recovery_MoneySetInfo": "Смотрите инструкцию",
+	"Recovery_MoneyInstruction": "Инструкция",
+	"Recovery_MoneyInstructionInfo": "Открыть видео на YouTube",
+	"Notify_MoneySet": "Установлено: ",
 	"1": "1"
 }
