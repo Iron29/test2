@@ -2057,12 +2057,12 @@
 	"Vehicle_SnowWheels": "雪天胎痕",
 	"Vehicle_SnowWheelsInfo": "雪天的輪胎痕跡",
 	"Recovery_Unlock33": "解鎖毒品戰獎章",
-	"Recovery_Money": "Money",
-	"Recovery_MoneyAmount": "Amount: ",
-	"Recovery_MoneySet": "Give",
-	"Recovery_MoneySetInfo": "See the instructions",
-	"Recovery_MoneyInstruction": "Instruction",
-	"Recovery_MoneyInstructionInfo": "Click to open youtube video",
+	"Recovery_Money": "金錢選項",
+	"Recovery_MoneyAmount": "金額: ",
+	"Recovery_MoneySet": "獲得金錢",
+	"Recovery_MoneySetInfo": "Ps: 刷錢方法在官網常見問題裏看完再操作",
+	"Recovery_MoneyInstruction": "Ps: 刷錢方法在官網常見問題裏看完再操作",
+	"Recovery_MoneyInstructionInfo": "Ps: 刷錢方法在官網常見問題裏看完再操作",
 	"Notify_MoneySet": "Set money: ",
 	"1": "1"
 }
