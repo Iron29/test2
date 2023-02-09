@@ -2064,5 +2064,8 @@
 	"Recovery_MoneyInstruction": "Ps: 刷錢方法在官網常見問題裏看完再操作",
 	"Recovery_MoneyInstructionInfo": "Ps: 刷錢方法在官網常見問題裏看完再操作",
 	"Notify_MoneySet": "Set money: ",
+	"SlEvent_SMSBotSpam": "Spam sms 'bots'",
+	"SlGriefing_KillPlayerInterior": "Kill player the interior",
+	"SlGriefing_KillPlayerInteriorInfo": "Does not work in all interiors",
 	"1": "1"
 }

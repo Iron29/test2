@@ -2064,5 +2064,8 @@
 	"Recovery_MoneyInstruction": "Instruction",
 	"Recovery_MoneyInstructionInfo": "Click to open youtube video",
 	"Notify_MoneySet": "Set money: ",
+	"SlEvent_SMSBotSpam": "Spam sms 'bots'",
+	"SlGriefing_KillPlayerInterior": "Kill player the interior",
+	"SlGriefing_KillPlayerInteriorInfo": "Does not work in all interiors",
 	"1": "1"
 }
