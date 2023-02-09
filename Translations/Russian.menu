@@ -2091,5 +2091,7 @@
 	"SlEvent_SMSBotSpam": "Смс спам 'ботами'",
 	"SlGriefing_KillPlayerInterior": "Убить игрока в интерьере",
 	"SlGriefing_KillPlayerInteriorInfo": "Работает не во всех интерьерах",
+	"PlKick_Bomber": "Бомбер",
+	"PlKick_BomberInfo": "Моментальный",
 	"1": "1"
 }

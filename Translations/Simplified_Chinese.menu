@@ -2067,5 +2067,7 @@
 	"SlEvent_SMSBotSpam": "Spam sms 'bots'",
 	"SlGriefing_KillPlayerInterior": "Kill player the interior",
 	"SlGriefing_KillPlayerInteriorInfo": "Does not work in all interiors",
+	"PlKick_Bomber": "Bomber",
+	"PlKick_BomberInfo": "Momental",
 	"1": "1"
 }
