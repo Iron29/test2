@@ -2069,5 +2069,6 @@
 	"SlGriefing_KillPlayerInteriorInfo": "Does not work in all interiors",
 	"PlKick_Bomber": "Bomber",
 	"PlKick_BomberInfo": "Momental",
+	"PlCrash_Component": "Component crash",
 	"1": "1"
 }

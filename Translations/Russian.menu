@@ -2093,5 +2093,6 @@
 	"SlGriefing_KillPlayerInteriorInfo": "Работает не во всех интерьерах",
 	"PlKick_Bomber": "Бомбер",
 	"PlKick_BomberInfo": "Моментальный",
+	"PlCrash_Component": "Компонент",
 	"1": "1"
 }

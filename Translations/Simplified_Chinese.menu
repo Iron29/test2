@@ -2069,5 +2069,6 @@
 	"SlGriefing_KillPlayerInteriorInfo": "不适用于所有室内",
 	"PlKick_Bomber": "轰炸踢出",
 	"PlKick_BomberInfo": "瞬间踢出",
+	"PlCrash_Component": "Component crash",
 	"1": "1"
 }
