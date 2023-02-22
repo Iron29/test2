@@ -2094,5 +2094,8 @@
 	"PlKick_Bomber": "Бомбер",
 	"PlKick_BomberInfo": "Моментальный",
 	"PlCrash_Component": "Компонент",
+	"Session_FastRestartGame": "Зайти в пролог",
+	"Session_FastRestartGameInfo": "Принудительно войти в сюжет",
+	"SlVehicle_KillEngine3": "Взорвать машину",
 	"1": "1"
 }

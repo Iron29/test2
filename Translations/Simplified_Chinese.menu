@@ -2070,5 +2070,8 @@
 	"PlKick_Bomber": "轰炸踢出",
 	"PlKick_BomberInfo": "瞬间踢出",
 	"PlCrash_Component": "Component crash",
+	"Session_FastRestartGame": "Fast restart game",
+	"Session_FastRestartGameInfo": "Forcibly enter the story mode",
+	"SlVehicle_KillEngine3": "Blow up a car",
 	"1": "1"
 }
