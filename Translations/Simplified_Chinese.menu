@@ -2057,7 +2057,7 @@
 	"Vehicle_SnowWheels": "雪天胎痕",
 	"Vehicle_SnowWheelsInfo": "雪天的轮胎痕迹",
 	"Recovery_Unlock33": "解锁毒品战奖章",
-	"Recovery_Money": "金钱选项",
+	"Recovery_Money": "金钱选项 ~r~(risk)",
 	"Recovery_MoneyAmount": "金额: ",
 	"Recovery_MoneySet": "获得金钱",
 	"Recovery_MoneySetInfo": "Ps: 刷钱方法在官网熔岩常见问题里看完再操作",

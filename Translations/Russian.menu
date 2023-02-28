@@ -2081,7 +2081,7 @@
 	"Vehicle_SnowWheels": "Снежные колеса",
 	"Vehicle_SnowWheelsInfo": "Физика и следы, как зимой",
 	"Recovery_Unlock33": "Войны с наркотиками Награды",
-	"Recovery_Money": "Деньги",
+	"Recovery_Money": "Деньги ~r~(риск)",
 	"Recovery_MoneyAmount": "Количество: ",
 	"Recovery_MoneySet": "Выдать",
 	"Recovery_MoneySetInfo": "Смотрите инструкцию",

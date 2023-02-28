@@ -2057,7 +2057,7 @@
 	"Vehicle_SnowWheels": "Snow wheels",
 	"Vehicle_SnowWheelsInfo": "Physics and footprints like in winter",
 	"Recovery_Unlock33": "Drug Wars Awards",
-	"Recovery_Money": "Money",
+	"Recovery_Money": "Money ~r~(risk)",
 	"Recovery_MoneyAmount": "Amount: ",
 	"Recovery_MoneySet": "Give",
 	"Recovery_MoneySetInfo": "See the instructions",
