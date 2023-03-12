@@ -2097,5 +2097,15 @@
 	"Session_FastRestartGame": "Зайти в пролог",
 	"Session_FastRestartGameInfo": "Принудительно войти в сюжет",
 	"SlVehicle_KillEngine3": "Взорвать машину",
+	"Vehicle_Rvanka": "Рванка",
+	"SlFriendly_ImpactAmmo": "Ударные боеприпасы",
+	"ImpactAmmo_On": "Вкл",
+	"ImpactAmmo_Audio": "Звук",
+	"ImpactAmmo_Invisible": "Невидимость",
+	"ImpactAmmo_PlayerName": "Ник игрока",
+	"ImpactAmmo_PlayerNameInfo": "Убивайте от имени игрока",
+	"ImpactAmmo_Type": "Тип: ",
+	"ImpactAmmo_DamagePower": "Урон",
+	"ImpactAmmo_CameraShake": "Дрожание камеры",
 	"1": "1"
 }

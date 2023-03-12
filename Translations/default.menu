@@ -2073,5 +2073,15 @@
 	"Session_FastRestartGame": "Fast restart game",
 	"Session_FastRestartGameInfo": "Forcibly enter the story mode",
 	"SlVehicle_KillEngine3": "Blow up a car",
+	"Vehicle_Rvanka": "Rvanka",
+	"SlFriendly_ImpactAmmo": "Impact Ammo",
+	"ImpactAmmo_On": "On",
+	"ImpactAmmo_Audio": "Audio",
+	"ImpactAmmo_Invisible": "Invisible",
+	"ImpactAmmo_PlayerName": "Player name",
+	"ImpactAmmo_PlayerNameInfo": "Kill on player behalf",
+	"ImpactAmmo_Type": "Type: ",
+	"ImpactAmmo_DamagePower": "Damage power",
+	"ImpactAmmo_CameraShake": "Camera shake",
 	"1": "1"
 }
