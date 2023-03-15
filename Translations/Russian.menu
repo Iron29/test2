@@ -2107,5 +2107,16 @@
 	"ImpactAmmo_Type": "Тип: ",
 	"ImpactAmmo_DamagePower": "Урон",
 	"ImpactAmmo_CameraShake": "Дрожание камеры",
+	"Money_Steal200": "Выдача 200к",
+	"Money_Steal200Loop": "Постоянно",
+	"Money_Steal200LoopDelay": "Задержка",
+	"Money_Steal200Give": "Выдать",
+	"Recovery_StoryMode": "Сюжет",
+	"Recovery_StoryMode1": "Майкл",
+	"Recovery_StoryMode2": "Франклин",
+	"Recovery_StoryMode3": "Тревор",
+	"Recovery_StoryModeCash": "Деньги",
+	"Recovery_StoryModeKills": "Киллы",
+	"Recovery_StoryModeDeaths": "Смерти",
 	"1": "1"
 }

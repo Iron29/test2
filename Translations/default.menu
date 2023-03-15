@@ -2083,5 +2083,16 @@
 	"ImpactAmmo_Type": "Type: ",
 	"ImpactAmmo_DamagePower": "Damage power",
 	"ImpactAmmo_CameraShake": "Camera shake",
+	"Money_Steal200": "Issuance of 200k",
+	"Money_Steal200Loop": "Loop",
+	"Money_Steal200LoopDelay": "Delay",
+	"Money_Steal200Give": "Give",
+	"Recovery_StoryMode": "Story mode",
+	"Recovery_StoryMode1": "Michael",
+	"Recovery_StoryMode2": "Franklin",
+	"Recovery_StoryMode3": "Trevor",
+	"Recovery_StoryModeCash": "Cash",
+	"Recovery_StoryModeKills": "Kills",
+	"Recovery_StoryModeDeaths": "Deaths",
 	"1": "1"
 }
