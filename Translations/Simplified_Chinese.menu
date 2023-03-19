@@ -2083,7 +2083,7 @@
 	"ImpactAmmo_Type": "弹药类型: ",
 	"ImpactAmmo_DamagePower": "武器伤害值",
 	"ImpactAmmo_CameraShake": "镜头摇晃值",
-    "Money_Steal200": "200k",
+	"Money_Steal200": "200k",
 	"Money_Steal200Info": "30kk limit",
 	"Money_Steal1kk": "1kk",
 	"Money_Steal1kkInfo": "Unlimited | 1kkk +-5min",
