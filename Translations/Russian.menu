@@ -2156,5 +2156,10 @@
 	"Notify_Gived": "Выдано",
 	"Notify_Finish": "Финиш",
 	"Notify_Change": "Изменено",
+	"Money_Steal100k": "100к",
+	"Missions_RCutLester": "Убрать % Лестер",
+	"Missions_RCutDrivers": "Убрать % Водитель",
+	"Missions_RCutHackers": "Убрать % Хакер",
+	"Missions_RCutGunmans": "Убрать % Стрелок",
 	"1": "1"
 }

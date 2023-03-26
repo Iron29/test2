@@ -2132,5 +2132,10 @@
 	"Notify_Gived": "Gived",
 	"Notify_Finish": "Finish",
 	"Notify_Change": "Change",
+	"Money_Steal100k": "100k",
+	"Missions_RCutLester": "Remove Lester Cut",
+	"Missions_RCutDrivers": "Remove Driver Cut",
+	"Missions_RCutHackers": "Remove Hacker Cut",
+	"Missions_RCutGunmans": "Remove Gunman Cut",
 	"1": "1"
 }
