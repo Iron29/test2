@@ -1,5 +1,7 @@
 Version 29
 Added/Fixed:
+The log system has been redesigned
+Fixed crash at start
 Fixed all button presses
 Fix possible departures
 Fix globals
